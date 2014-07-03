@@ -2,38 +2,36 @@ mp1
 === 
 i converted following c program into ruby code
 
-Hello world
-Print Integer
-Addition
-Odd or Even
-Add, subtract, multiply and divide
-Check vowel
-Leap year
-Add digits
-Factorial
-HCF and LCM
-Decimal to binary conversion
-ncR and nPr
-Add n numbers
-Swapping
-Reverse number
-Palindrome number
-Print Pattern
-Diamond
-Prime numbers 
+1-Hello world
+2-Print Integer
+3-Addition
+4-Odd or Even
+5-Add, subtract, multiply and divide
+6-Check vowel
+7-Leap year
+8-Add digits
+9-Factorial
+10-HCF and LCM
+11-Decimal to binary conversion
+12-ncR and nPr
+13-Add n numbers
+14-Swapping
+15-Reverse number
+16-Palindrome number
+17-Print Pattern
+18-Diamond
+19-Prime numbers 
+20-Find armstrong number
+21-Generate armstrong number
+22-Fibonacci series
+23-Print floyd's triangle
+24-Maximum element in array
+25-Minimum element in array
+26-Linear search
 =============
 And i need to convert the followings
-
-
-Find armstrong number
-Generate armstrong number
-Fibonacci series
-Print floyd's triangle
 Print pascal triangle
 Addition using pointers
-Maximum element in array
-Minimum element in array
-Linear search
 Binary search
 Reverse array
 Insert element in array
