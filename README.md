@@ -28,9 +28,10 @@ i converted following c program into ruby code
 24-Maximum element in array
 25-Minimum element in array
 26-Linear search
+27-Print pascal triangle
 =============
 And i need to convert the followings
-Print pascal triangle
+
 Addition using pointers
 Binary search
 Reverse array
