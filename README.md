@@ -29,21 +29,21 @@ i converted following c program into ruby code
 25-Minimum element in array
 26-Linear search
 27-Print pascal triangle
+28-Binary search
+29-Reverse array
+30-Insert element in array
+31-Delete element from array
+32-Bubble sort
+33-Insertion sort
+34-Selection sort
+35-Add matrices
+36-Subtract matrices
+37-Transpose matrix
 =============
 And i need to convert the followings
 
 Addition using pointers
-Binary search
-Reverse array
-Insert element in array
-Delete element from array
 Merge arrays
-Bubble sort
-Insertion sort
-Selection sort
-Add matrices
-Subtract matrices
-Transpose matrix
 Multiply two matrices
 Print string
 String length
