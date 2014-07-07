@@ -52,6 +52,7 @@ i converted following c program into ruby code
 48-Copy files
 49-Print date
 50-Get IP address
+51-Random numbers
 =============
 And i need to convert the followings
 
@@ -67,7 +68,7 @@ Anagrams
 Merge two files
 List files in a directory
 Delete file
-Random numbers
+
 Add complex numbers
 Shutdown computer
 =============
