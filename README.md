@@ -39,35 +39,35 @@ i converted following c program into ruby code
 35-Add matrices
 36-Subtract matrices
 37-Transpose matrix
+38-Multiply two matrices
+39-Print string
+40-String length
+41-Compare strings
+42-Copy string
+43-Concatenate strings
+44-Reverse string
+45-Find palindrome
+46-Change case
+47-Read file
+48-Copy files
+49-Print date
+50-Get IP address
 =============
 And i need to convert the followings
 
 Addition using pointers
 Merge arrays
-Multiply two matrices
-Print string
-String length
-Compare strings
-Copy string
-Concatenate strings
-Reverse string
-Find palindrome
 Delete vowels
 C substring
 Sort a string
-Remove spaces
-Change case
+Remove spacce 
 Swap strings
 Character's frequency
 Anagrams
-Read file
-Copy files
 Merge two files
 List files in a directory
 Delete file
 Random numbers
 Add complex numbers
-Print date
-Get IP address
 Shutdown computer
 =============
