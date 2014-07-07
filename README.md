@@ -56,19 +56,18 @@ i converted following c program into ruby code
 =============
 And i need to convert the followings
 
-Addition using pointers
-Merge arrays
-Delete vowels
-C substring
-Sort a string
-Remove spacce 
-Swap strings
-Character's frequency
-Anagrams
-Merge two files
-List files in a directory
-Delete file
-
-Add complex numbers
-Shutdown computer
+1-Addition using pointers
+2-Merge arrays
+3-Delete vowels
+4C substring
+5-Sort a string
+6-Remove spacce 
+7-Swap strings
+8-Character's frequency
+9-Anagrams
+10-Merge two files
+11-List files in a directory
+12-Delete file
+13-Add complex numbers
+14-Shutdown computer
 =============
