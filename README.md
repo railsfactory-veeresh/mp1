@@ -53,21 +53,22 @@ i converted following c program into ruby code
 49-Print date
 50-Get IP address
 51-Random numbers
+52-Merge two files
+53-Add complex numbers
+54-Anagrams
+55-List files in a directory
+56-Delete file
+57-Swap strings
 =============
 And i need to convert the followings
 
 1-Addition using pointers
 2-Merge arrays
 3-Delete vowels
-4C substring
+4-substring
 5-Sort a string
 6-Remove spacce 
 7-Swap strings
 8-Character's frequency
-9-Anagrams
-10-Merge two files
-11-List files in a directory
-12-Delete file
-13-Add complex numbers
-14-Shutdown computer
+9-Shutdown computer
 =============
