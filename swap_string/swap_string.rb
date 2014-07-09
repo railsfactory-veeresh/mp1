@@ -7,5 +7,6 @@ temp = ""
 temp = string1
 string1 = string2
 string2 = temp
+puts "after swapping"
 puts string1
 puts string2
