@@ -59,16 +59,17 @@ i converted following c program into ruby code
 55-List files in a directory
 56-Delete file
 57-Swap strings
+58-Merge arrays
+59-Shutdown computer
+60-Delete vowels
+61-Remove spacce 
 =============
 And i need to convert the followings
 
 1-Addition using pointers
-2-Merge arrays
-3-Delete vowels
-4-substring
-5-Sort a string
-6-Remove spacce 
-7-Swap strings
-8-Character's frequency
-9-Shutdown computer
+2-substring
+3-Sort a string
+4-Swap strings
+5-Character's frequency
+
 =============
